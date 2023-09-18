@@ -31,9 +31,6 @@ class KeyboardController: NSObject,
     // Tip: There's a helper method you can use located in this class
     // START YOUR CODE HERE
       return numItems(in: section) // i think this is done
-      
-      // This is a comment to check for git stuff
-      
     // END YOUR CODE HERE
   }
 

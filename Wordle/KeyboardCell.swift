@@ -31,6 +31,8 @@ class KeyboardCell: UICollectionViewCell {
     */
     // START YOUR CODE HERE
     // ...
+      self.string = string // line 1
+      label.text = string  // line 2
     // END YOUR CODE HERE
   }
 
